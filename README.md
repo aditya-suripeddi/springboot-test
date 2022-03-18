@@ -1,6 +1,6 @@
 # Spring Boot Test
 
-This project helps to get started on writing unit-tests, integration test, acceptance test for REST API service with spring boot
+This aim of the repository is to practice writing unit-tests, integration test, acceptance test for REST API service with spring boot
 
 ## Setup 
 
