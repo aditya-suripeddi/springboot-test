@@ -53,29 +53,29 @@ Adding above capabilities is one time cost and can be useful
 
 ## References 
 
-[java-techie-github](https://github.com/Java-Techie-jt/spring-boot-mockito)
+[Java-techie-github](https://github.com/Java-Techie-jt/spring-boot-mockito)
 
 
-[kric-foster-github](https://github.com/kriscfoster/spring-boot-testing-pyramid/)
+[Kric-foster-github](https://github.com/kriscfoster/spring-boot-testing-pyramid/)
 
  
-[java-techie-youtube](https://www.youtube.com/watch?v=kXhYu939_5s): Write tests using JUnit and Mockito
+[Java-techie-youtube](https://www.youtube.com/watch?v=kXhYu939_5s): Write tests using JUnit and Mockito
  
 
-[kric-foster-youtube](https://www.youtube.com/watch?v=aEW8ZH6wj2o): Spring Boot Testing Rest Controller with Unit, Integration and Acceptance tests
+[Kric-foster-youtube](https://www.youtube.com/watch?v=aEW8ZH6wj2o): Spring Boot Testing Rest Controller with Unit, Integration and Acceptance tests
 
 
-[defog-tech-youtube](https://www.youtube.com/watch?v=Ekr4jxOIf4c): Spring Boot Testing basics
+[Defog-tech-youtube](https://www.youtube.com/watch?v=Ekr4jxOIf4c): Spring Boot Testing basics
 
 
  
 [how-to-do-in-java](https://howtodoinjava.com/spring-boot2/testing/springboottest-annotation/): Spring boot annotations
 
 
-[spring-framework-guru](https://springframework.guru/blog/): Bean Validation and Exception Handling 
+[Spring-framework-guru](https://springframework.guru/blog/): Bean Validation and Exception Handling 
 
 
 [reflectoring.io](https://reflectoring.io/spring-boot-exception-handling/): Exception handling
 
 
-[mongodb-install](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu/)
+[Mongodb-install](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu/)
